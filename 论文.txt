@@ -1,0 +1,137 @@
+Pei Zhao
+Center for Intelligent and Networked Systems
+School of Computer Science, Southwest Petroleum University
+Chengdu, China
+pzhaoswpu@gmail.com
+
+
+
+
+Ping Li
+Center for Intelligent and Networked Systems
+School of Computer Science, Southwest Petroleum University
+Chengdu, China
+dping.li@gmail.com 
+
+
+The F1 value when the mlp have different number of hidden layers and different number of units in each hidden layer in our experiment
+
+the MLP's performance is not along with the increase in layers and each layer of neurons increased number and get highe units in each hidden layer 
+
+the MLP's performance does not always improve with the increase in the number of hidden layers and the number of units in each hidden layer. 
+
+it will decline when each hidden layer units reaches a certain value
+
+It reaches the maximum value when each hidden layer units is about half of the number of units in the input layer.
+
+began to decline since then.
+Its performance is not increased with the increase of the number of growth
+
+
+Although the performance of our model is much higher than the highest level published by the Alibaba Group, we did several experiments with other algorithms to compare with it. We used the same input data shown in Table 2, and the same criteria(introduced in Sec. 3.5) to measure the results.
+We found that it is still much higher than the performance of all other models.
+
+The Table 4 shows all the comparison results
+
+
+Predicting the occurrence of commodity purchase is helpful for electricity supplier to achieve a good product recommendation [6]. This paper presents the application of multilayer perceptron for predicting users' purchase behaviors on e-commerce websites. The model is built by learning from user's history data and behaviors at present. The data we use is a four months of data provided by Alibaba, the largest online shopping marketplace in China. Compared to classical three-layer multilayer perceptron model, the model we use here is a deep network with more hidden layers. The performance of our multilayer model is verified to be better than traditional methods do, especially in five-layered multilayer model.
+
+
+Suykens J A K, Vandewalle J. Least squares support vector machine classifiers[J]. Neural processing letters, 1999, 9(3): 293-300.
+
+Support Vector Machine(SVM),
+k-Nearest Neighbors(KNN),
+Naive Bayes
+Collaborative Filtering
+
+11.02%
+
+7.7%
+
+Suykens, Johan AK, and Joos Vandewalle. "Least squares support vector machine classifiers." Neural processing letters 9.3 (1999): 293-300.
+
+Fukunaga, Keinosuke, and Patrenahalli M. Narendra. "A branch and bound algorithm for computing k-nearest neighbors." Computers, IEEE Transactions on 100.7 (1975): 750-753.
+
+McCallum, Andrew, and Kamal Nigam. "A comparison of event models for naive bayes text classification." AAAI-98 workshop on learning for text categorization. Vol. 752. 1998.
+
+Sarwar, Badrul, et al. "Item-based collaborative filtering recommendation algorithms." Proceedings of the 10th international conference on World Wide Web. ACM, 2001.
+
+
+李平，女，1977年7月生，副研究员
+
+
+
+received his M.S. degree in
+laser physics and his Ph.D. degree in optical
+engineering both from Nankai University in
+1993 and 1996, respectively. From 1998 to 2000,
+he was invited to City University of Hong Kong,
+Hong Kong, China and awarded the postdoctoral
+fellowship with the Department of Electronic
+Engineering, City University of Hong Kong.
+
+Since 2011, she has been with the Institute of Modern Optics,
+Nankai University, where he is presently a full professor and
+doctorial supervisor with the College of Electronic Information
+and Optical Engineering. He holds hundreds of publications and
+more than 10 patents. His current research involves
+microstructural terahertz devices, terahertz time-domain
+spectroscopy technology, digital image processing, and the
+applications of artificial neural network in pattern recognition
+
+Ping Li received the B.S. degree from the University of Science and Technology of China (USTC), Hefei, in 2001 and the M.S. degree from the University of Florida (UF), Gainesville, in 2003, both in electrical engineering. He is currently pursuing the Ph.D. degree with the Department of Electrical and Computer Engineering, UF. His research interests include spectral estimation, array signal processing, and information theory.
+
+Ping Li was born in Sichuan Province, China, in 1977. He received the B.S. degree from the University of Science and Technology of China (USTC), Hefei, in 2001 and the M.S. degree from the University of Florida (UF), Gainesville, in 2003, both in electrical engineering. He is currently pursuing the Ph.D. degree with the Department of Electrical and Computer Engineering, UF. His research interests include spectral estimation, array signal processing, and information theory.
+
+Ping Li received the Ph.D. degree in Computer software and theory from the University of Electronic Science and Technology of China (UESTC), Chengdu, in 2009. From 2009 to 2010, she was invited to The Hong Kong Polytechnic University, Hong Kong, China and awarded the postdoctoral. Since 2011, she has been with the Southwest Petroleum University, where she is presently a full associate professor and graduate supervisor with the School of computer science. Her research interests include social network analysis, machine learning, natural language processing.
+
+
+Ke-Chun Wen was born in Sichuan, China in
+1992. He is currently pursuing the B.S. degree
+with UESTC. He joined Prof. Wei-Dong He’s
+group in 2013 as a research assistant. His
+research interests include analytical modeling
+of gas diffusivity and ionic conductivity in fuel
+cells and batteries, as well as the oriented
+attachment growth mechanism of
+nanocrystals.
+
+Pei Zhao was born in Henan, China in 1989. He received the B.S. degrees from Henan University, Henan, China in 2013, is currently pursuing the M.S. degree with Southwest Petroleum University. His research interests include social network analysis, machine learning. He joined Prof. Tao Zhou’s and Dr. Jun-lin Zhou’s Hire Big Data Company as a Data Analyst.
+
+
+respectively. She received the
+Ph.D. degree from Nankai Universityn in 2015,
+and she now is working with Tianjin Chengjian
+University, Tianjin, China. Her research interest
+is optical fiber sensor.
+
+
+
+
+UESTC.
+Institute of Modern Optics,
+Nankai University, where he is presently a full professor and
+doctorial supervisor with the College of Electronic Information
+and Optical Engineering. 
+
+
+
+
+from the University of Science and Technology of China
+
+
+
+
+
+
+
+
+
+
+
+
+The Results of different model in 
+
+The experimental results of different model
+
+
