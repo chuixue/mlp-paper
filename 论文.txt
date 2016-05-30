@@ -86,6 +86,8 @@ Ping Li was born in Sichuan Province, China, in 1977. He received the B.S. degre
 Ping Li received the Ph.D. degree in Computer software and theory from the University of Electronic Science and Technology of China (UESTC), Chengdu, in 2009. From 2009 to 2010, she was invited to The Hong Kong Polytechnic University, Hong Kong, China and awarded the postdoctoral. Since 2011, she has been with the Southwest Petroleum University, where she is presently a full associate professor and graduate supervisor with the School of computer science. Her research interests include social network analysis, machine learning, natural language processing.
 
 
+School of Computer Science, Southwest Petroleum University
+
 Ke-Chun Wen was born in Sichuan, China in
 1992. He is currently pursuing the B.S. degree
 with UESTC. He joined Prof. Wei-Dong He¡¯s
